@@ -266,4 +266,7 @@ body {
   .container-card:not(:last-child) {
     margin-right: 20px;
   }
+  .container-svg {
+    top: 150px;
+  }
 }
