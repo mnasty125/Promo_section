@@ -52,7 +52,7 @@ body {
 }
 .container-svg {
   position: absolute;
-  top: 165px;
+  top: 23%;
   left: 308px;
   max-width: 100%;
 }
@@ -265,8 +265,5 @@ body {
   }
   .container-card:not(:last-child) {
     margin-right: 20px;
-  }
-  .container-svg {
-    top: 199px;
   }
 }
