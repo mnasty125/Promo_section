@@ -13,14 +13,13 @@ body {
 }
 .main {
   position: relative;
+  margin: auto;
   margin-bottom: 250px;
   max-width: 1170px;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  margin-left: auto;
-  margin-right: auto;
 }
 .main-title {
   font-weight: 300;
@@ -54,7 +53,7 @@ body {
   position: absolute;
   top: 23%;
   left: 308px;
-  max-width: 100%;
+  margin: auto;
 }
 .cards {
   display: flex;
